@@ -1,0 +1,1 @@
+Test spring git cloud configuration
